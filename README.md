@@ -1,2 +1,2 @@
-# Llama2-Medical-Chatbot
-This is a medical bot built using Llama2 and Sentence Transformers. The bot is powered by Langchain and Chainlit. The bot runs on a decent CPU machine with a minimum of 16GB of RAM.
+# Mistral-7B-QA-Chatbot
+This is a bot built using Mistral-7B and Sentence Transformers. The bot is powered by Langchain and Streamlit. The bot runs on a decent CPU machine with a minimum of 16GB of RAM.
